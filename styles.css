@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+body{
+        background-color: violet;
+	    display: flex;
+        margin-top: 40%;
+        justify-content: center;
+        }
+        #buttons{
+           display: flex;
+           gap:10px;
+          
+        }
+        .btn{
+            background-color: inherit;
+            color:white;
+            border: none;
+            background-color: blueviolet;
+            padding:8px 24px;
+        }
